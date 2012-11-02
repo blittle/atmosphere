@@ -1,5 +1,5 @@
 {
-    "name": "jQuery Atmosphere",
+    "name": "atmosphere",
     "version": "1.0.3",
     "main": "./jquery.atmosphere.js",
     "dependencies": {
