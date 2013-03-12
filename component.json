@@ -3,6 +3,6 @@
     "version": "1.0.12",
     "main": "./jquery.atmosphere.js",
     "dependencies": {
-        "jquery": ">=1.7.2"
+        "jquery": ">1.7.0"
     }
 }
