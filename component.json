@@ -1,6 +1,6 @@
 {
-    "name": "jQuery Atmosphere",
-    "version": "1.0.12",
+    "name": "jquery-atmosphere",
+    "version": "1.0.13",
     "main": "./jquery.atmosphere.js",
     "dependencies": {
         "jquery": ">1.7.0"
